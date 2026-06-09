@@ -4,11 +4,11 @@
 &nbsp;&nbsp;&nbsp;
 <img src="assets/ftc.svg" height="120">
 &nbsp;&nbsp;&nbsp;
-<img src="assets/jaguars.png" height="120">
+<img src="assets/jaguars.jpg" height="120">
 
 # 🐆 JaguaRS FTC 31200
 
-<img src="assets/jaguar-banner.png" width="100%">
+<img src="assets/jaguarbicho.jpg" width="100%">
 
 ### Instituto Federal Sul-rio-grandense • Campus Gravataí
 
