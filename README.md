@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/ifsul-logo.png" height="120">
+<img src="assets/if.png" height="120">
 &nbsp;&nbsp;&nbsp;
-<img src="assets/ftc-logo.png" height="120">
+<img src="assets/ftc.svg" height="120">
 &nbsp;&nbsp;&nbsp;
-<img src="assets/jaguars-logo.png" height="120">
+<img src="assets/jaguars.png" height="120">
 
 # 🐆 JaguaRS FTC 31200
 
