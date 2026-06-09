@@ -162,17 +162,7 @@ OpenCV    Impressão3D Eventos
 
 </div>
 
----
 
-#  Estatísticas
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Team31200&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Team31200&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
