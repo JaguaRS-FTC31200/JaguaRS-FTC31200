@@ -127,7 +127,7 @@ A JaguaRS FTC 31200 reúne estudantes das áreas de:
 
 # Contato
 
-Instagram: @jaguars.ftc
+Instagram: @ftc31200
 
 Instituto Federal Sul-rio-grandense – Campus Gravataí
 
